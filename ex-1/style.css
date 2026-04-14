@@ -5,3 +5,16 @@
 }
 
 /* Start coding here */
+.introduction {
+  font-size: var(--font-size);
+  color: var(--primary-font-color);
+  padding: var(--padding);
+  background-color: var(--primary-color);
+}
+
+:root {
+  --primary-color: cornsilk;
+  --padding: 20px;
+  --primary-font-color: #ff7f50;
+  --font-size: 100px;
+}
